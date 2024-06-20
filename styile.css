@@ -1,0 +1,22 @@
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+#letra {
+    font-size: larger;
+}
+#italica {
+    font-family: italic;
+
+}
+.Soldado {
+    border-style: double;
+    border-width: 50px;
+    border-spacing: 80%;
+    letter-spacing:  70px;;
+}
+.apoyo {
+    text-align: center;
+}
